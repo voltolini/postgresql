@@ -1,0 +1,3 @@
+--# CONECTAR EM OUTRA BASE NO POSTGRES
+
+\c nome_base
